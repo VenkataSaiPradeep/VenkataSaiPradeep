@@ -14,9 +14,8 @@ Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State Uni
 ---
 
 ## 💡 **Projects:**
-- **[Expense Tracker App](https://github.com/yourprofile/expense-tracker-app):** A scalable application using React, Django, and MySQL that tracks over 500 monthly active users, leveraging Plaid API for secure transaction fetching.
-- **[Banking Management System](https://github.com/yourprofile/banking-management-system):** A robust banking solution built with Java and Spring Boot, handling customer data and services efficiently.
-- **[EV Market Analysis](https://github.com/yourprofile/ev-market-analysis):** Data analysis project for AtliQ Motors, utilizing Tableau and Excel to derive insights into the Indian EV market.
+- **[Heart Disease Prediction Using Machine Learning](https://github.com/VenkataSaiPradeep/Heart-Disease-Prediction-Using-Machine-Learning):** A Machine Learning model using Pandas, Numpy, Matplotlib, scikit-learn, and Jupyter Notebook that predicts heart disease using classification algorithms.
+- **[Adventure Works Sales Analysis](https://github.com/VenkataSaiPradeep/Adventure-Works-Sales-Analysis):**  Data analysis project for Adventure Works, utilizing PowerBi and Excel to derive insights into the Bikes Sales market.
 
 ---
 
@@ -48,8 +47,8 @@ Tools:
 
 ## 💬 **Let’s Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-sai-pradeep-n/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://pradeep2187.github.io/VenkataSaiPradeep.github.io/)
 
 ---
 
