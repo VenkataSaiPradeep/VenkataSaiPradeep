@@ -1,4 +1,6 @@
-# Venkata Sai Pradeep Nagisetti
+<h1 align="center">
+  <img src="https://via.placeholder.com/800x200/3776AB/ffffff?text=Hi+there!+I'm+Venkata Sai Pradeep Nagisetti" alt="Hi there! I'm Venkata Sai Pradeep Nagisetti">
+</h1>
 
 ### Passionate Data Analyst | Software Developer | Cloud Enthusiast
 
