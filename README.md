@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Venkata Sai Pradeep Nagisetti
+# Venkata Sai Pradeep Nagisetti
 
 ### Passionate Data Analyst | Software Developer | Cloud Enthusiast
 
