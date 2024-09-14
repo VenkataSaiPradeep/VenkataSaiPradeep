@@ -1,7 +1,5 @@
 # Venkata Sai Pradeep Nagisetti"
-### Passionate Data Analyst | Software Developer | Cloud Enthusiast
-
-# <div align="center" style="margin-top: 20px;">
+### <div align="center" style="margin-top: 20px;">
   ![Data Analyst](https://img.shields.io/badge/Data_Analyst-4CAF50?style=flat-square&logo=google-charts&logoColor=white)
   ![Software Developer](https://img.shields.io/badge/Software_Developer-0A74DA?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Cloud Enthusiast](https://img.shields.io/badge/Cloud_Enthusiast-F2994A?style=flat-square&logo=cloudflare&logoColor=white)
