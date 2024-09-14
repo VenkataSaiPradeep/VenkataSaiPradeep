@@ -1,8 +1,11 @@
-<h1 align="center">
-  <img src="https://via.placeholder.com/800x200/3776AB/ffffff?text=Hi+there!+I'm+Venkata Sai Pradeep Nagisetti" alt="Hi there! I'm Venkata Sai Pradeep Nagisetti">
-</h1>
-
+# Venkata Sai Pradeep Nagisetti"
 ### Passionate Data Analyst | Software Developer | Cloud Enthusiast
+
+# <div align="center" style="margin-top: 20px;">
+  ![Data Analyst](https://img.shields.io/badge/Data_Analyst-4CAF50?style=flat-square&logo=google-charts&logoColor=white)
+  ![Software Developer](https://img.shields.io/badge/Software_Developer-0A74DA?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Cloud Enthusiast](https://img.shields.io/badge/Cloud_Enthusiast-F2994A?style=flat-square&logo=cloudflare&logoColor=white)
+</div>
 
 Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State University, based in Tempe, AZ. I have 2+ years of experience in data analysis, dashboard development, cloud computing, and software development, with a focus on delivering scalable solutions and optimizing processes. Here's a quick overview of what I do:
 
