@@ -1,52 +1,62 @@
-## Hi, I'm Venkata Sai Pradeep Nagisetti | Passionate Data Analyst and Software Developer
+# Hi! 👋 I'm Venkata Sai Pradeep Nagisetti
 
-**📌 Table of Contents**
-<br>a. 👋 About Me
-<br>b. 💼 Skills
-<br>c. 🏆 Certifications
-<br>d. 📚 Education
-<br>e. 🔗 Contact
-<br>f. 🤝 Contributing
+### Passionate Data Analyst | Software Developer | Cloud Enthusiast
 
-**👋 About Me**<br>
-I am a dedicated Data Analyst with a passion for uncovering insights and making data-driven decisions. With a solid background in statistical analysis, machine learning, and data visualization, I am committed to transforming data into actionable insights. I thrive on challenges and continuously seek opportunities to learn and grow in the field of data analysis.
+Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State University, based in Tempe, AZ. I have 2+ years of experience in data analysis, dashboard development, cloud computing, and software development, with a focus on delivering scalable solutions and optimizing processes. Here's a quick overview of what I do:
 
-**💼 Skills**<br>
-🔍 Data Analysis: Expertise in analyzing complex datasets to uncover trends and insights.<br>
-📊 Data Visualization: Proficient in creating interactive and static visualizations using tools like Tableau, Power BI, and Matplotlib.<br>
-🧠 Statistical Analysis: Skilled in hypothesis testing, regression analysis, and predictive modeling using Python.<br>
-💻 Programming Languages: Python, SQL, Java, JavaScript, C, React<br>
-📈 Machine Learning: Experience with scikit-learn, TensorFlow, and Keras for building and deploying machine learning models.<br>
-🛠️ Tools & Technologies: Excel, SQL, Tableau, Power BI, Jupyter Notebooks, GitHub, AWS<br>
+---
 
-**🏆 Certifications**<br>
-📜 Microsoft Certified Power BI Data Analyst Professional Certificate - Coursera<br>
-📜 AWS Certified Solutions Architect_Associate - AWS<br>
+## 🔍 **What I’m Working On:**
+- **Data Analysis:** Extracting actionable insights from large datasets using SQL, Python, Tableau, Excel and Power BI.
+- **Software Development:** Building full-stack applications, with experience in React, Java, Python, SpringBoot, Django, and AWS.
+- **Cloud Solutions:** AWS Certified Solutions Architect, ensuring secure, reliable, and cost-efficient cloud infrastructures.
 
-**📚 Education**<br>
-🎓 Master of Science in Software Engineering - Arizona State University<br>
-🎓 Bachelor of Technology in Electronics and Communication Engineering - Raghu Engineering College<br>
+---
 
-**🔗 Contact**<br>
-Feel free to connect with me:
+## 💡 **Projects:**
+- **[Expense Tracker App](https://github.com/yourprofile/expense-tracker-app):** A scalable application using React, Django, and MySQL that tracks over 500 monthly active users, leveraging Plaid API for secure transaction fetching.
+- **[Banking Management System](https://github.com/yourprofile/banking-management-system):** A robust banking solution built with Java and Spring Boot, handling customer data and services efficiently.
+- **[EV Market Analysis](https://github.com/yourprofile/ev-market-analysis):** Data analysis project for AtliQ Motors, utilizing Tableau and Excel to derive insights into the Indian EV market.
 
-🔗 GitHub: https://github.com/VenkataSaiPradeep/
+---
 
-**🤝 Contributing**
-I am always open to collaborating on interesting projects or contributing to open-source initiatives. If you have a project or idea that aligns with my skills and interests, please feel free to reach out!
+## 🛠️ **Technical Skills:**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!--
-**VenkataSaiPradeep/VenkataSaiPradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 🌱 **What I’m Learning:**
+- Enhanced reporting and data visualization with Tableau and Power BI
+- Deepening my knowledge in AI/ML and predictive analytics
+
+---
+
+## 💬 **Let’s Connect:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfolio.com)
+
+---
+
+Thanks for stopping by! Feel free to explore my repos, contribute to ongoing projects, or reach out for collaboration!
+
+---
