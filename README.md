@@ -56,6 +56,6 @@ Tools:
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos, contribute to ongoing projects, or reach out for collaboration!
+Thanks for stopping by! Feel free to explore my repos, or reach out for collaboration!
 
 ---
