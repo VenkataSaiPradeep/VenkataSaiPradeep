@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State Uni
 ---
 
 ## 🔍 **What I’m Working On:**
-- **Data Analysis:** Extracting actionable insights from large datasets using SQL, Python, Tableau, Excel and Power BI.
+- **Data Analysis:** Extracting actionable insights from large datasets using SQL, Python, Tableau, Excel, SAS, Alteryx, and Power BI.
 - **Software Development:** Building full-stack applications, with experience in React, Java, Python, SpringBoot, Django, and AWS.
 - **Cloud Solutions:** AWS Certified Solutions Architect, ensuring secure, reliable, and cost-efficient cloud infrastructures.
 
