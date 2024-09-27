@@ -5,7 +5,7 @@
   ![Cloud Enthusiast](https://img.shields.io/badge/Cloud_Enthusiast-F2994A?style=flat-square&logo=cloudflare&logoColor=white)
 </div>
 
-Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State University, based in Tempe, AZ. I have 2+ years of experience in data analysis, dashboard development, cloud computing, and software development, with a focus on delivering scalable solutions and optimizing processes. Here's a quick overview of what I do:
+Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State University, based in Tempe, AZ. I have 3+ years of experience in data analysis, dashboard development, cloud computing, and software development, with a focus on delivering scalable solutions and optimizing processes. Here's a quick overview of what I do:
 
 ---
 
