@@ -19,6 +19,7 @@ Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State Uni
 ## 💡 **Projects:**
 - **[Heart Disease Prediction Using Machine Learning](https://github.com/VenkataSaiPradeep/Heart-Disease-Prediction-Using-Machine-Learning):** A Machine Learning model using Pandas, Numpy, Matplotlib, scikit-learn, and Jupyter Notebook that predicts heart disease using classification algorithms.
 - **[Adventure Works Sales Analysis](https://github.com/VenkataSaiPradeep/Adventure-Works-Sales-Analysis):**  Data analysis project for Adventure Works, utilizing PowerBi and Excel to derive insights into the Bikes Sales market.
+- - **[SunDevil Store Sales Dashboard](https://github.com/VenkataSaiPradeep/SunDevil-Store-Sales-Dashboard):**  Data analysis project for SunDevil Store, utilizing PowerBi and Excel to derive insights into the Sales market.
 
 ---
 
