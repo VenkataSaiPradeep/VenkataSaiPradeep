@@ -48,7 +48,7 @@ Tools:
 
 ## 💬 **Let’s Connect:**
 
-[![LinkedIn](https://www.linkedin.com/in/nagisetti-venkata-sai-pradeep-535201218/)  
+[![LinkedIn](https://www.linkedin.com/in/nagisetti-venkata-sai-pradeep-535201218/)] 
 
 ---
 
