@@ -4,7 +4,7 @@
   ![Cloud Enthusiast](https://img.shields.io/badge/Cloud_Enthusiast-F2994A?style=flat-square&logo=cloudflare&logoColor=white)
 </div>
 
-Welcome to my GitHub! I'm a Software Engineering graduate from Arizona State University, based in Tempe, AZ. I have 3+ years of experience in data analysis, dashboard development, cloud computing, and software development, with a focus on delivering scalable solutions and optimizing processes. Here's a quick overview of what I do:
+Welcome to my GitHub! Software Engineer with 1+ years of experience in full-stack development, system architecture, and performance optimization. Passionate about building scalable solutions, solving complex problems, and driving innovation. Currently a Junior Full Stack Developer at a startup Teaching Solved, refining expertise in Python, React, and cloud technologies. Here's a quick overview of what I do:
 
 ---
 
