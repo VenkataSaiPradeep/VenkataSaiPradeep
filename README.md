@@ -16,7 +16,7 @@ Welcome to my GitHub! Software Engineer with experience in full-stack developmen
 
 ## 💡 **Projects:**
 - **[Heart Disease Prediction Using Machine Learning](https://github.com/VenkataSaiPradeep/Heart-Disease-Prediction-Using-Machine-Learning):** A Machine Learning model using Pandas, Numpy, Matplotlib, scikit-learn, and Jupyter Notebook that predicts heart disease using classification algorithms.
-- **[Adventure Works Sales Analysis](https://github.com/VenkataSaiPradeep/Adventure-Works-Sales-Analysis):**  Data analysis project for Adventure Works, utilizing PowerBi and Excel to derive insights into the Bikes Sales market.
+- **[Food Catalog Restful API](https://github.com/VenkataSaiPradeep/Food-Catalog-Restful-API):**  Designed and deployed an enterprise-grade food resource management system using Java, SpringBoot improving user capacity and response times.
 - **[SunDevil Store Sales Dashboard](https://github.com/VenkataSaiPradeep/SunDevil-Store-Sales-Dashboard):**  Data analysis project for SunDevil Store, utilizing PowerBi and Excel to derive insights into the Sales market.
 
 ---
