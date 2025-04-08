@@ -24,7 +24,6 @@
 ## 📫 Let’s Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/venkata-sai-pradeep-n/)
 - 💼 [Portfolio](https://pradeep2187.github.io/portfolio/)
-- 📬 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
