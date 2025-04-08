@@ -2,7 +2,7 @@
 
 **Software & AI/ML Engineer | Full-Stack Developer | Generative AI Enthusiast**
 
-🚀 I’m a passionate developer with 1+ years of experience building scalable, user-centric applications and deploying cutting-edge AI/ML solutions. I specialize in full-stack development using **Next.js**, **Python**, **Java**, and  **AWS**,, and work extensively with **Generative AI**, **RAG**, and **PyTorch** to create real-time, intelligent systems.
+🚀 I’m a passionate developer with 1+ years of experience building scalable, user-centric applications and deploying cutting-edge AI/ML solutions. I specialize in full-stack development using **Next.js**, **React.js**, **Python**, **Java**, and  **AWS**, and work extensively with **Generative AI**, **RAG**, and **PyTorch** to create real-time, intelligent systems.
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Next.js
