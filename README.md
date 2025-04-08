@@ -1,15 +1,15 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Venkata Sai Pradeep Nagisetti]
 
 **Software & AI/ML Engineer | Full-Stack Developer | Generative AI Enthusiast**
 
-🚀 I’m a passionate developer with 1+ years of experience building scalable, user-centric applications and deploying cutting-edge AI/ML solutions. I specialize in full-stack development using **React.js**, **Python**, and **Kafka**, and work extensively with **Generative AI**, **RAG**, and **PyTorch** to create real-time, intelligent systems.
+🚀 I’m a passionate developer with 1+ years of experience building scalable, user-centric applications and deploying cutting-edge AI/ML solutions. I specialize in full-stack development using **Next.js**, **Python**, **Java**, and  **AWS**,, and work extensively with **Generative AI**, **RAG**, and **PyTorch** to create real-time, intelligent systems.
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Next.js
-- **Backend:** Python, FastAPI, Node.js
+- **Backend:** Python, Java, FastAPI, Django, SpringBoot, Node.js
 - **AI/ML:** PyTorch, RAG (Retrieval-Augmented Generation), Transformers
 - **DevOps & Cloud:** AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
-- **Data Tools:** PostgreSQL, MongoDB, Kafka, Apache Spark
+- **Data Tools:** PostgreSQL, MySQL, MongoDB, Kafka, Apache Spark
 - **Other:** LangChain, Hugging Face, OpenAI APIs, Groq API
 
 ## 🧠 What I’m Working On
