@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Venkata Sai Pradeep Nagisetti]
+# 👋 Hi, I'm Venkata Sai Pradeep Nagisetti
 
 **Software & AI/ML Engineer | Full-Stack Developer | Generative AI Enthusiast**
 
