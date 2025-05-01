@@ -22,7 +22,7 @@
 - Built and deployed containerized AI pipelines with **Docker**, **Spark**, and **LangChain** for real-time analytics
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nagisetti-pradeep/)
+- 🔗 [LinkedIn](linkedin.com/in/venkata-sai-pradeep-n/)
 
 
 ---
