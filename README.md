@@ -5,7 +5,7 @@
 🚀 I’m a passionate developer with experience in building scalable, user-centric applications and deploying cutting-edge AI/ML solutions. I specialize in full-stack development using **Next.js**, **React.js**, **Python**, **Java**, and  **AWS**, and work extensively with **Generative AI**, **RAG**, and **PyTorch** to create real-time, intelligent systems.
 
 ## 🔧 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, Next.js
+- **Frontend:** React.js, Tailwind CSS, Next.js, TypeScript, JavaScript
 - **Backend:** Python, Java, FastAPI, Django, SpringBoot, Node.js
 - **AI/ML:** PyTorch, RAG (Retrieval-Augmented Generation), Transformers
 - **DevOps & Cloud:** AWS, GCP, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
